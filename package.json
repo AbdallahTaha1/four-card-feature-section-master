@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/AbdallahTaha1/four-card-feature-section-master/issues"
   },
-  "homepage": "https://github.com/AbdallahTaha1/four-card-feature-section-master",
+  "homepage": "https://github.com/AbdallahTaha1/four-card-feature-section-master/index.html",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
